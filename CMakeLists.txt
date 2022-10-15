@@ -76,7 +76,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 ################################################
 ## Declare ROS dynamic reconfigure parameters ##
-################################################
+###############################################
 
 ## To declare and build dynamic reconfigure parameters within this
 ## package, follow these steps:
