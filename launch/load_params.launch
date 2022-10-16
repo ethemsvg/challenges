@@ -1,0 +1,3 @@
+<launch>
+	<rosparam command="load" file="$(find challenge1)/config/params.yaml" />
+</launch>
